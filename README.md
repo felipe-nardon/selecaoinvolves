@@ -1,7 +1,7 @@
 # Seleção Desenvolvedor Java
 O objetivo do projeto é ler um arquivo CSV e filtrar os dados de acordo com comando de consulta.
 
-A prova consiste em criar um programa que leia todas as linhas do arquivo CSV ([faça o download aqui](cidades.csv)) e utilize esse arquivo como base para consultas, onde a primeira linha (cabeçalho) contém o nome das propriedades e as linhas subsequentes os valores. Após ler o arquivo, o programa deve começar a ouvir o console a espera dos comandos de consulta. Abaixo segue a lista dos comandos que devem ser interpretados:
+A prova consiste em criar um programa que leia todas as linhas do arquivo CSV e utilize esse arquivo como base para consultas, onde a primeira linha (cabeçalho) contém o nome das propriedades e as linhas subsequentes os valores. Após ler o arquivo, o programa deve começar a ouvir o console a espera dos comandos de consulta. Abaixo segue a lista dos comandos que devem ser interpretados:
 
 ### Comandos
 - **count** * - escreve no console a contagem total de registros importados (não deve considerar a linha de cabeçalho)
